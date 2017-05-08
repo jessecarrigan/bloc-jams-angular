@@ -1,1 +1,1 @@
-angular.module('bloc-jams', []);
+angular.module('blocJams', []);
